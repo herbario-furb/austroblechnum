@@ -1,0 +1,23 @@
+Package: Austroblechnum
+Type: Package
+Title: Modelagem das Espécies de Austroblechnum
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Guilherme",
+           family  = "Grittz",
+           role    = c("aut", "cre", "cph"),
+           email   = "ggrittz@usp.br",
+           comment = c(ORCID = "0000-0001-6500-4422")),
+    person(given   = "André Luís",
+           family  = "de Gasper",
+           role    = "aut"))
+Description: Compêndio de pesquisa (dados, código e resultados) do artigo
+    científico sobre as espécies do gênero Austroblechnum (Blechnaceae).
+URL: https://github.com/herbario-furb/austroblechnum
+BugReports: https://github.com/herbario-furb/austroblechnum/issues
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    here

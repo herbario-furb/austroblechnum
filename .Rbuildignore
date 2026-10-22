@@ -1,0 +1,11 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^LICENSE\.md$
+^analyses$
+^data$
+^figures$
+^outputs$
+^make\.R$
+^\.secrets$
+^\.Renviron$
