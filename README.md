@@ -35,5 +35,6 @@ Chaves de API (GBIF, speciesLink) vão no `.Renviron`, que não entra no git.
 
 ### Autores
 
+- Gabriel Yan Rosa ([ORCID 0000-0002-2236-699X](https://orcid.org/0000-0002-2236-699X))
 - Guilherme Grittz ([ORCID 0000-0001-6500-4422](https://orcid.org/0000-0001-6500-4422))
 - André Luís de Gasper
